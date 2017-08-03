@@ -1,7 +1,7 @@
 /* Agrega aquí tus estilos*/
 body{
 	background-color:#EEE66D;
-	background-image: url(../assets/imagen/imagen2.jpg);
+	background-image: url(../imagen/imagen2.jpg);
 	background-repeat:no-repeat; 
 	background-size: 100%; 
 }
@@ -106,7 +106,7 @@ text-shadow: -2px -2px 0px #cc0000, 2px -2px 0px #cc0000, -2px 2px 0px #cc0000, 
 	position: relative;
 	top: -13em;
   	float: left;  
-  	background-image: url(../assets/imagen/anotes1.jfif);
+  	background-image: url(../imagen/anotes1.jfif);
   	background-repeat: no-repeat;
   	background-size: 86%; 		
 }
@@ -121,7 +121,7 @@ text-shadow: -2px -2px 0px #cc0000, 2px -2px 0px #cc0000, -2px 2px 0px #cc0000, 
 	position: relative;
 	top: -9em;
   	float: left ;
-  	background-image: url(../assets/imagen/anotes1.jfif);
+  	background-image: url(../imagen/anotes1.jfif);
   	background-repeat: no-repeat;  
 
 }
