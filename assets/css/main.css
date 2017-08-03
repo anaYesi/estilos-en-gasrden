@@ -1,0 +1,140 @@
+/* Agrega aquí tus estilos*/
+body{
+	background-color:#EEE66D;
+	background-image: url(../assets/imagen/imagen2.jpg);
+	background-repeat:no-repeat; 
+	background-size: 100%; 
+}
+h1{
+	color: #131213;
+	text-align:center;
+	font-size: 50px;
+	letter-spacing: 8px;
+	text-shadow: -2px -2px 0px #00c3cc, 2px -2px 0px #f1f1eb, -2px 2px 0px #0081cc, 2px 2px 0px #ffff00;
+}
+h2{
+	font-size: 50px;
+	-webkit-text-fill-color: #99FF33;
+	-webkit-text-stroke: 1px #a7501d;
+
+}
+	
+#zen-summary{
+	font-family: cursive;
+	margin: auto;
+	margin-top: 20px;
+	width: 50%;
+	height: 10%;
+	background-color: yellow;
+	color: ;
+	float: left;
+}
+/*#zen-preamble h3{
+text-align: center;
+color: pink;
+background: #eee;
+font-family: impact;
+font-size: 30px;
+letter-spacing: 8px;
+text-shadow: -2px -2px 0px #cc0000, 2px -2px 0px #cc0000, -2px 2px 0px #cc0000, 2px 2px 0px #cc0000;
+
+}*/
+
+.preamble{
+	font-family: cursive;
+	width: 48%;
+	background-color: yellow;
+	color: red ;
+	float: right;
+	position: relative;
+  	top: 1em
+}
+#zen-explanation{
+	font-family: sans-serif;
+	width: 48%;
+	/*background-color: red;*/
+	color: black ;
+  	/*border: black 2px solid;*/
+  	position: relative;
+  	top: 1em
+}
+/**/
+#zen-participation{
+	width: 24%;
+	background-color: yellow;
+	color: red ;
+	position: relative;
+  	top: 1em;
+  	float: left;
+  	padding: 11px;
+  	
+}
+#zen-benefits{
+	
+  	width: 24%;
+	background-color: green;
+	color: black ;
+	float: left;
+	position: relative;
+  	top: 1em;
+  	padding: 11px;
+  	
+
+}
+#zen-requirements{
+	width: 47%;
+	background-color: yellow;
+	color: black ;
+	float: right;
+	position: relative;
+  	top: 1em;
+  	padding: 11px;
+
+}
+/**/
+#design-selection{
+	width: 27%;
+	background-color: green;
+	color: black;
+	position: relative;
+  	top: 2em;
+  	float: left;
+
+}
+#design-archives{
+	width: 15%;
+	position: relative;
+	top: -13em;
+  	float: left;  
+  	background-image: url(../assets/imagen/anotes1.jfif);
+  	background-repeat: no-repeat;
+  	background-size: 86%; 		
+}
+.design-archives{
+	transform: rotate(-35deg);
+
+}
+
+#zen-resources{
+	width: 20%;
+	color: black ;
+	position: relative;
+	top: -9em;
+  	float: left ;
+  	background-image: url(../assets/imagen/anotes1.jfif);
+  	background-repeat: no-repeat;  
+
+}
+.zen-resources{
+	transform: rotate(-35deg);
+}
+
+footer{
+	margin: 100px;
+	width: 50%;
+	height: 200px;
+	background-color: red;
+	position: absolute; top: 1050px; left: 550px;
+
+}
+
